@@ -1,4 +1,4 @@
-# Cuhk Math Notes Downloader
+# CUHK Math Notes Downloader
 
 ## Usage
 Download all lecture notes from the course website, only for website without password.
